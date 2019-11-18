@@ -1,0 +1,31 @@
+body {
+    font-family: "HelveticaNeue", "Arial", sans-serif;
+  }
+h1 {
+    font-size: 44px;
+    font-family: 'Raleway', sans-serif;
+    color: #45637A;
+    margin-top:0px;
+    border-top:0px;
+    padding-top: 5px;
+    padding-bottom:5px;
+}
+header{
+    background-color: #F4FFCE;
+}
+h2 {
+    font-size: 32px;
+}
+#desc{
+    color:rgb(83, 83, 83);
+    margin-left: 30px;
+}
+#rideCount{
+    align-content: center;
+    justify-content: center;
+    text-align: center;
+    font-size: 34px;
+}
+#mid{
+    text-align: center;
+}
