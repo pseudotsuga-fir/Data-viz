@@ -29,3 +29,12 @@ h2 {
 #mid{
     text-align: center;
 }
+.land {
+    fill: #fff;
+    stroke: #ccc;
+  }
+  
+  .state {
+    fill: #ccc;
+    stroke: #666;
+  }
