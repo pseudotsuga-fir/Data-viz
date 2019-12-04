@@ -21,13 +21,21 @@ h2 {
     margin-left: 30px;
 }
 #rideCount{
+    display: none;
     align-content: center;
     justify-content: center;
     text-align: center;
     font-size: 34px;
+    margin-top: -20px;
+    margin-left: 25px;
+    margin-top: -30px;
+    font-family: 'Raleway', sans-serif;
 }
 #mid{
+    display: none;
     text-align: center;
+    margin-left: 25px;
+    font-family: 'Raleway', sans-serif;
 }
 .land {
     fill: #fff;
@@ -38,3 +46,34 @@ h2 {
     fill: #ccc;
     stroke: #666;
   }
+#canvas {
+    margin-top: -150px;
+}
+#q,#desc {
+    margin-top:-20px;
+}
+#q {
+    margin-top: -20px;
+}
+#about {
+    font-family: 'Raleway', sans-serif;
+    font-style: Bold;
+    font-size: 32px;
+    float: left;
+}
+#detail {
+    font-family: "HelveticaNeue", "Arial", sans-serif;
+    font-size: 16px;
+    margin-top: 2px;
+    text-align: left;
+    margin-left: 140px;
+}
+a {
+    float: right;
+    text-align: right;
+    margin-top:-160px;
+    color: black;
+    font-style: normal;
+    font-family: 'Raleway', sans-serif;
+    font-size: 18px;
+}
